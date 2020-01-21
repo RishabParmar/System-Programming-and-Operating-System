@@ -1,0 +1,14 @@
+MNT
+Addition 0
+Subtraction 5
+MDT
+Addition &X,&Y
+MOVER AREG,#1
+ADD AREG,#2
+MOVEM AREG,#1
+MEND
+Subtraction &X,&Y
+MOVER AREG,#1
+SUB AREG,#2
+MOVEM AREG,#1
+MEND

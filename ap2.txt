@@ -1,0 +1,11 @@
+IC
+AD,1 C,300
+IS,1 2 S,1
+IS,2 1 S,2
+IS,3 3 S,2
+DL,1 C,4
+DL,1 C,5
+AD,2
+Symbol Table
+1 303
+2 304
